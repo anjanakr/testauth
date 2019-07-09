@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_testauth.helloscript_user" name="sn_testauth.helloscript_user">8d0051a9b7223300cf70e2b9de11a9af</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-09 19:04:45</sys_created_on>
+        <sys_id>090095a9b7223300cf70e2b9de11a99b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8d0051a9b7223300cf70e2b9de11a9af</sys_name>
+        <sys_package display_value="testauth" source="sn_testauth">78c3c525b7223300cf70e2b9de11a935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testauth">78c3c525b7223300cf70e2b9de11a935</sys_scope>
+        <sys_update_name>sys_embedded_help_role_090095a9b7223300cf70e2b9de11a99b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-09 19:04:45</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
